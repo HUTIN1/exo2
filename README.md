@@ -20,5 +20,10 @@ ajout du dossier exo2
 @@ text in purple (and bold)@@
 ```
 
+<ul>
+    <li><input type="checkbox" checked> First task</li>
+    <li><input type="checkbox"> Second task</li>
+</ul>
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
