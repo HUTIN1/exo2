@@ -19,12 +19,10 @@ ajout du dossier exo2
 # text in gray
 @@ text in purple (and bold)@@
 ```
-<ul class="ck ck-todolist">
+<ul class="todo-list">
   <li>
-    <label>
-        <input type="checkbox" unchecked>
-        <span> test </span>
-    </label>
+     <input type="checkbox" disabled checked>
+     <label>Foo</label>
   </li>
 </ul>
 
