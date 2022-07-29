@@ -20,3 +20,5 @@ ajout du dossier exo2
 @@ text in purple (and bold)@@
 ```
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
