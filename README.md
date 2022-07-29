@@ -20,10 +20,20 @@ ajout du dossier exo2
 @@ text in purple (and bold)@@
 ```
 <ul class="todo-list">
-  <li>
-     <input type="checkbox" disabled checked>
-     <label>Foo</label>
-  </li>
+    <li>
+        <label class="todo-list__label">
+            <input type="checkbox" disabled [checked] />
+            <span class="todo-list__label__description">Foo</span>
+        </label>
+        <ul class="todo-list">
+            <li>
+                <label class="todo-list__label">
+                    <input type="checkbox" disabled [checked] />
+                    <span class="todo-list__label__description">Bar</span>
+                </label>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
