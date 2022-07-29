@@ -21,10 +21,7 @@ ajout du dossier exo2
 ```
 
 <form>
-  <div>
-    <input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">
-    <label for="subscribeNews">Subscribe to newsletter?</label>
-  </div>
+    <input type="checkbox" name="subscribe">
 </form>
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
