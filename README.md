@@ -19,13 +19,20 @@ ajout du dossier exo2
 # text in gray
 @@ text in purple (and bold)@@
 ```
+<fieldset>
+    <legend>Choose your monster's features:</legend>
 
-<ul class="todo-list">
-  <li>
-     <input type="checkbox" disabled checked>
-     <span>Foo</span>
-  </li>
-</ul>
+    <div>
+      <input type="checkbox" id="scales" name="scales"
+             checked>
+      <label for="scales">Scales</label>
+    </div>
+
+    <div>
+      <input type="checkbox" id="horns" name="horns">
+      <label for="horns">Horns</label>
+    </div>
+</fieldset>
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
