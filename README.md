@@ -8,6 +8,13 @@ ajout du dossier exo2
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+
+
+| test1 | test2 | test3 |
+|--------|---------|--------------------|
+| oui1 | oui2 | oui3 |
+| non1 | non2 | non3 |
+
 # maybe
 `rgb(9, 105, 218)`
 **test**
