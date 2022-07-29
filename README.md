@@ -20,9 +20,12 @@ ajout du dossier exo2
 @@ text in purple (and bold)@@
 ```
 
-<form>
-    <input type="checkbox" name="subscribe">
-</form>
+<ul class="todo-list">
+  <li>
+     <input type="checkbox" disabled checked>
+     <span>Foo</span>
+  </li>
+</ul>
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
