@@ -12,3 +12,11 @@ ajout du dossier exo2
 `rgb(9, 105, 218)`
 **test**
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
