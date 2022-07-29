@@ -20,10 +20,10 @@ ajout du dossier exo2
 @@ text in purple (and bold)@@
 ```
 
-<ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox"></span>
-    <span class="ck-todolist__item-content">Create a strong device passcode</span>
+<ul>
+  <li>
+        <input type="checkbox" checked>
+        Foo
   </li>
 </ul>
 
