@@ -11,3 +11,5 @@ ajout du dossier exo2
 # maybe
 `rgb(9, 105, 218)`
 **test**
+
+<span style="color: green"> Some green text </span>
